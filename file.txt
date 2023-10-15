@@ -1,1 +1,5 @@
+HEAD
 feature1 modif
+
+feature2 modif
+featuree2
