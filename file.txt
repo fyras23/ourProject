@@ -1,5 +1,6 @@
-HEAD
+>>>>>>>HEAD
 feature1 modif
-
+========
 feature2 modif
-featuree2
+<<<<<<<featuree2
+feature10

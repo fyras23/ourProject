@@ -1,0 +1,24 @@
+[33mcommit 183c65b820a51f4764d04d4da699034b166db3cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a031d36 94dfb5b
+Author: firas <firasftiti06@gmail.com>
+Date:   Sun Oct 15 17:34:40 2023 +0100
+
+    Merge branch 'featuree2'
+
+[33mcommit 94dfb5bb6b9f12f4732f55812da890a9109945d5[m[33m ([m[1;32mfeaturee2[m[33m)[m
+Author: firas <firasftiti06@gmail.com>
+Date:   Sun Oct 15 16:43:53 2023 +0100
+
+    la modif dans f2
+
+[33mcommit a031d36f0a5edd934510a6310bba35f7de48700e[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;32mfeaturee1[m[33m)[m
+Author: firas <firasftiti06@gmail.com>
+Date:   Sun Oct 15 16:41:01 2023 +0100
+
+    la modif dans f1
+
+[33mcommit 2f7eb7a49256fe4eb84f6ff9159952e4e38ce063[m
+Author: firas <firasftiti06@gmail.com>
+Date:   Sun Oct 15 16:02:13 2023 +0100
+
+    to all
