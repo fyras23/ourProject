@@ -2,5 +2,12 @@
 feature1 modif
 ========
 feature2 modif
+<<<<<<< HEAD
 <<<<<<<featuree2
 feature10
+=======
+featuree2 edited by firas 
+feature 3 edited by aroussi
+feature 4 edited by amine
+feature5 tst by aroussi
+>>>>>>> refs/remotes/origin/master
